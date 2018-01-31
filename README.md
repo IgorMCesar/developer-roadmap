@@ -15,7 +15,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 ## 🚀 Introduction
 
-![](https://i.imgur.com/OZUOUtI.png)
+![alt text](/img/intro-maps.png "intro-maps image")
 
 ## 🎨 Front-end Roadmap
 
